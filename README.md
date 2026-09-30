@@ -4,7 +4,7 @@ This repository contains step-by-step instructions for provisioning an Amazon Re
 
 #### PDF GUIDE: [CREATE AN AMAZON RELATIONAL DATABASE SERVICE INSTANCE AND CONNECT AN ON-PREM MYSQL DATABASE.pdf](https://github.com/user-attachments/files/32696655/5.CREATE.AN.AMAZON.RELATIONAL.DATABASE.SERVICE.INSTANCE.AND.CONNECT.AN.ON-PREM.MYSQL.DATABASE.pdf)
 
-#### VIDEO WALKTHROUGH: https://youtu.be/j9A63Bbj4dA
+#### WATCH VIDEO WALKTHROUGH HERE: https://youtu.be/j9A63Bbj4dA
 ---
 
 ## PREREQUISITES
